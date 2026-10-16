@@ -1,6 +1,6 @@
 # Oluwatimilehin (Timi) Alabi
 
-Security engineer based in Regina, SK. MEng student in Software Systems Engineering at the University of Regina, currently an Enterprise Security co-op focused on governance, risk and compliance (GRC).
+MEng student in Software Systems Engineering at the University of Regina, based in Regina, SK. Currently an Enterprise Security co-op focused on governance, risk and compliance (GRC), with a background in penetration testing and vulnerability research.
 
 ## What I work on
 
