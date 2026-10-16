@@ -6,7 +6,7 @@ MEng student in Software Systems Engineering at the University of Regina, based 
 
 - **Vulnerability research:** rewarded responsible disclosure reports and accepted findings, including a High severity unauthenticated file upload, on invite-only platforms
 - **Application and API security:** black-box testing with Burp Suite, ffuf and Nuclei
-- **CTFs:** 4th of 27 at the NCC Group and Mastercard CTF National Finals, 2nd at BSides Regina and MagpieCTF
+- **CTFs:** playing since 2020. Recent results: 4th of 27 at the NCC Group and Mastercard CTF National Finals, 2nd at BSides Regina and MagpieCTF
 - **GRC and security operations:** risk assessments, security exceptions and incident response planning in an enterprise setting
 
 ## Public projects
