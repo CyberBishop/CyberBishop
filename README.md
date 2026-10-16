@@ -1,23 +1,29 @@
-# 💫 About Me:
-👋 Hello there! I'm a cybersecurity enthusiast with a developer's perspective! 💻<br>🌱 Currently, I'm immersing myself in the exciting world of cybersecurity, specifically focusing on expanding my knowledge and skills in this field. As a developer, I am passionate about applying my expertise to backend projects. 🚀<br>🔧 My current focus is sharpening my skills in Node.js, Express, and related technologies. I aim to build secure and efficient web applications by diving deep into these frameworks. 🌐<br>💡 I firmly believe collaboration is key to success, so I'm actively seeking opportunities to work on cybersecurity projects. If you're working on a project related to backend development, security, or anything at the intersection of the two, I would love to collaborate with you! 🤝<br><br>Feel free to contact me if you're interested in joining forces on such projects or discussing any exciting opportunities in the realm of cybersecurity. Let's strengthen our defences and create secure solutions together! 💪🔒
+# Oluwatimilehin (Timi) Alabi
 
-Tagline: `Synergizing Security and Development`
+Security engineer and backend developer based in Regina, SK. MEng student in Software Systems Engineering at the University of Regina, currently working as an Enterprise Security co-op.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alviiin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_cyberbishop_) 
+## What I work on
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cyberbishop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cyberbishop&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberbishop&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- **Vulnerability research:** rewarded responsible disclosure reports and accepted findings, including a High severity unauthenticated file upload, on invite-only platforms
+- **Application and API security:** black-box testing with Burp Suite, ffuf and Nuclei
+- **CTFs:** 4th of 27 at the NCC Group and Mastercard CTF National Finals, 2nd at BSides Regina and MagpieCTF
+- **GRC and security operations:** risk assessments, security exceptions and incident response planning in an enterprise setting
+- **Backend development:** Node.js, Express and Python
 
----
-[![](https://visitcount.itsvg.in/api?id=cyberbishop&icon=0&color=0)](https://visitcount.itsvg.in)
+## Public projects
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cyberbishop) 
+- [writeups](https://github.com/CyberBishop/writeups): CTF write-ups
+- [GDG-Cyberquest-IDOR-Lab](https://github.com/CyberBishop/GDG-Cyberquest-IDOR-Lab): a deliberately vulnerable IDOR lab I built for the GDG Lagos CyberQuest CTF
+- [WorkstudyPortal-Backend](https://github.com/CyberBishop/WorkstudyPortal-Backend): Express backend for a university work-study program
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Most of my recent work, including client and employer projects, detection engineering and lab environments, lives in private repositories, so this profile shows only part of it.
+
+## Skills
+
+**Languages:** JavaScript, TypeScript, Python, SQL, Bash
+**Security:** Burp Suite, Nmap, ffuf, sqlmap, Nuclei, Splunk, MITRE ATT&CK
+**Backend and cloud:** Node.js, Express, MongoDB, MySQL, Azure, AWS, Docker, Linux
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/alviiin) | [X](https://twitter.com/_cyberbishop_)
