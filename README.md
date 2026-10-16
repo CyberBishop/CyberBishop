@@ -11,7 +11,6 @@ Security engineer based in Regina, SK. MEng student in Software Systems Engineer
 
 ## Public projects
 
-- [writeups](https://github.com/CyberBishop/writeups): CTF write-ups
 - [GDG-Cyberquest-IDOR-Lab](https://github.com/CyberBishop/GDG-Cyberquest-IDOR-Lab): a deliberately vulnerable IDOR lab I built for the GDG Lagos CyberQuest CTF
 - [WorkstudyPortal-Backend](https://github.com/CyberBishop/WorkstudyPortal-Backend): Express backend for a university work-study program
 
