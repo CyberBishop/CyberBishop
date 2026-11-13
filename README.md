@@ -12,7 +12,7 @@ MEng student in Software Systems Engineering at the University of Regina, based 
 - **Application and API security:** black-box testing with Burp Suite, ffuf and Nuclei
 - **CTFs:** playing since 2020 with the UofR Cybersecurity Club. Recent results: 4th of 27 at the NCC and Mastercard CTF National Finals, 2nd at BSides Regina and MagpieCTF
 - **GRC and security operations:** risk assessments, security exceptions and incident response planning in an enterprise setting
-- **Cloud security and SRE:** Azure, GCP and AWS, WAF rollouts, Elasticsearch and Log Analytics detection, and a Coolify, Prometheus and Grafana platform on AWS
+- **Cloud security and SRE:** Azure, GCP and AWS, WAF rollouts, Elasticsearch and Log Analytics detection, and Prometheus, Grafana and Loki monitoring on AWS EC2 managed with Coolify
 - **Hardware on the side:** ESP32 and Arduino builds, like a HomeKit-controlled key fob using optocouplers
 
 ## Public projects
